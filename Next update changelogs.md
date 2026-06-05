@@ -2,6 +2,8 @@
 
 # Added :
 
+True Ending: Ender Dragon Overhaul
+
 # Updated :
 
 # Changes :
@@ -9,6 +11,8 @@
 - Tweaked sodium's default config to allow for better performance for lower-end hardware
 
 # Removed :
+
+- Ender Dragon Fight Remastered
 
 # Known Issues :
 
